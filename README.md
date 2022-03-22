@@ -1,1 +1,3 @@
- - ##### Receita de Strognof de frango :wave:
+ - receita de Strognoff
+ - receita de Coxinha
+ - receita de Bolo
