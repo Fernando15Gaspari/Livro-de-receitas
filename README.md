@@ -1,1 +1,1 @@
- - ##### Receita de Strognof de frango :wave:
+ Receita de Strognof de frango :wave:
